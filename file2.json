@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Olivella’s Neo Pizza Napoletana University Park",
+        "category": "Pizza",
+        "phone": "(214) 528-7070",
+        "address": "3406 McFarlin BlvdDallas, TX 75205"
+    },
+    {
+        "name": "St Martin’s Wine Bistro",
+        "category": "French,Wine Bars",
+        "phone": "(214) 826-0940",
+        "address": "3020 Greenville AveDallas, TX 75206"
+    },
+    {
+        "name": "Abacus",
+        "category": "Asian Fusion",
+        "phone": "(214) 559-3111",
+        "address": "4511 McKinney AveDallas, TX 75205"
+    },
+    {
+        "name": "Victor Tangos",
+        "category": "American (New),Gastropubs,Cocktail Bars",
+        "phone": "(214) 252-8595",
+        "address": "3001 N Henderson AveDallas, TX 75206"
+    },
+    {
+        "name": "Tei Tei Robata",
+        "category": "Japanese,Sushi Bars",
+        "phone": "(214) 828-2400",
+        "address": "2906 N Henderson AveDallas, TX 75206"
+    },
+    {
+        "name": "Pappas Bros Steakhouse",
+        "category": "Steakhouses,American (Traditional),Buffets",
+        "phone": "(214) 366-2000",
+        "address": "10477 Lombardy LnDallas, TX 75220"
+    },
+    {
+        "name": "Nonna Restaurant",
+        "category": "Italian",
+        "phone": "(214) 521-1800",
+        "address": "4115 Lomo Alto DrDallas, TX 75219"
+    },
+    {
+        "name": "Spoon Bar & Kitchen",
+        "category": "Seafood",
+        "phone": "(214) 368-8220",
+        "address": "8220 Westchester DrDallas, TX 75225"
+    },
+    {
+        "name": "Eddie V’s Prime Seafood",
+        "category": "Steakhouses,Seafood,Jazz & Blues",
+        "phone": "(214) 890-1500",
+        "address": "4023 Oak Lawn AveDallas, TX 75219"
+    },
+    {
+        "name": "Mai’s Vietnamese Restaurant",
+        "category": "Vietnamese",
+        "phone": "(214) 826-9887",
+        "address": "4812 Bryan StDallas, TX 75204"
+    }
+]
